@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Company Meeting Schedule</string>
+    <string name="schedule_company_meeeting">SCHEDULE COMPANY MEEETING</string>
+    <string name="next">NEXT</string>
+    <string name="_06_08_2015">06-08=2015</string>
+    <string name="prev">PREV</string>
+    <string name="start_time">Start Time</string>
+    <string name="description">Description</string>
+    <string name="end_time">End Time</string>
+    <string name="meeting_date">Meeting Date</string>
+    <string name="sechedule_a_meeting">SECHEDULE A MEETING</string>
+</resources>
